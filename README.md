@@ -10,16 +10,23 @@ Deadlines dla projektów:
 
 ## Zaliczenie i Egzamin
 
-> A good demo is disproportionately valuable in science.<br>
+> A good demo application is disproportionately valuable in development.<br>
 > — [Storytelling](http://en.wikipedia.org/wiki/Storytelling)
 
 Link do repozytorium z opisami projektów i linkami do nich należy wpisać
-w pliku [projekty.md](projekty.md) w jednym wierszu według schematu:
+w pliku [projects.md](projects.md) w jednym wierszu według schematu:
 
     1. [Nazwisko, Imię](link do prywatnego repo z rozwiązaniami zadań)
+
+Repozytorium z projektami należy przygotować wzorując się na
+tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 
 ## Podręczne linki
 
 1. [Rails 5]().
 1. [Edge Rails Guides]().
+
+Meta aplikacje:
+
+1. [e-commerce done right](http://www.ror-e.com)

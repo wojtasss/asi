@@ -1,4 +1,4 @@
-# Technologie Aplikacji Internetowych, 15/16
+## Technologie Aplikacji Internetowych, 2015/16
 
 Terminy oddania projektów:
 
@@ -8,7 +8,7 @@ Terminy oddania projektów:
 | egzamin    | 3 × 3   | 00.05.2016  | 00.05.2016     |
 
 
-## Zaliczenie i Egzamin
+### Zaliczenie i Egzamin
 
 > A good demo application is disproportionately valuable in development.<br>
 > — [Storytelling](http://en.wikipedia.org/wiki/Storytelling)
@@ -22,7 +22,7 @@ Repozytorium z projektami należy przygotować wzorując się na
 tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 
-## Podręczne linki
+### Podręczne linki
 
 1. Michael Hartl,
    [Ruby on Rails Tutorial](https://www.railstutorial.org/book) –

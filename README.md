@@ -29,7 +29,7 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
    learn web development with Rails
 1. [Edge Rails Guides](http://edgeguides.rubyonrails.org/).
 1. [Edge Rails API](http://edgeapi.rubyonrails.org/)
-1. [Rails 5 awesome features](https://speakerdeck.com/claudiob/rails-5-awesome-features-and-breaking-changes)
+1. Rails 5 awesome features:
   - [Action Cable – Integrated WebSockets for Rails](https://github.com/rails/rails/tree/master/actioncable)
   - [Action Cable Examples](https://github.com/rails/actioncable-examples)
   - [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) –

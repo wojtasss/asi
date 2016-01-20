@@ -24,9 +24,17 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 ## Podręczne linki
 
-1. [Rails 5]().
-1. [Edge Rails Guides]().
+1. Michael Hartl,
+   [Ruby on Rails Tutorial](https://www.railstutorial.org/book) –
+   learn web development with Rails
+1. [Edge Rails Guides](http://edgeguides.rubyonrails.org/).
+1. [Edge Rails API](http://edgeapi.rubyonrails.org/)
+1. [Rails 5]():
+  - [Action Cable – Integrated WebSockets for Rails](https://github.com/rails/rails/tree/master/actioncable)
+  - [Action Cable Examples](https://github.com/rails/actioncable-examples)
+  - [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) –
+    zob. [Peeps](https://github.com/cerebris/peeps) demo app.
 
-Meta aplikacje:
+Meta apps:
 
 1. [e-commerce done right](http://www.ror-e.com)

@@ -1,6 +1,6 @@
 # Technologie Aplikacji Internetowych, 15/16
 
-Deadlines dla projektów:
+Terminy oddania projektów:
 
 | projekt    | MVC     | stacjonarne | niestacjonarne |
 |------------|---------|-------------|----------------|

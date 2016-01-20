@@ -2,7 +2,7 @@
 
 Deadlines dla projektów:
 
-| projekt    |         | stacjonarne | niestacjonarne |
+| projekt    | MVC     | stacjonarne | niestacjonarne |
 |------------|---------|-------------|----------------|
 | zaliczenie | 3 × 1   | 00.04.2016  | 00.04.2016     |
 | egzamin    | 3 × 3   | 00.05.2016  | 00.05.2016     |

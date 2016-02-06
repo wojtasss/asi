@@ -35,6 +35,15 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
   - [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) –
     zob. [Peeps](https://github.com/cerebris/peeps) demo app.
 
-Meta apps:
+Meta aplikacje:
 
 1. [e-commerce done right](http://www.ror-e.com)
+
+Różne rzeczy:
+
+1. Leigh Halliday.
+   [How to Build Rails APIs Following the json:api Spec](http://blog.codeship.com/the-json-api-spec/)
+1. Rob Guilfoyle.
+   Building Cross Model Search with Ember, Rails, and Elasticsearch:
+  - [Part I](http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/)
+  - [Part II](http://blog.codeship.com/building-cross-model-search-with-ember-rails-and-elasticsearch-part-2/)

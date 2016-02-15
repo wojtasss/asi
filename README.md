@@ -22,6 +22,11 @@ Repozytorium z projektami należy przygotować wzorując się na
 tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 
 
+### Wykład
+
+1. [My Gists](https://github.com/rails4/my_gists5.beta2)
+
+
 ### Podręczne linki
 
 1. Michael Hartl,

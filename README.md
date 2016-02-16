@@ -16,7 +16,7 @@ Terminy oddania projektów:
 Link do repozytorium z opisami projektów i linkami do nich należy wpisać
 w pliku [projects.md](projects.md) w jednym wierszu według schematu:
 
-    1. [Nazwisko, Imię](link do prywatnego repo z rozwiązaniami zadań)
+    1. [Nazwisko, Imię](link do repo z rozwiązaniami zadań, GitHub, Bitbucket, GitLab)
 
 Repozytorium z projektami należy przygotować wzorując się na
 tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).

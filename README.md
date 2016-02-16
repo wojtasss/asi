@@ -25,6 +25,8 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 ### Wykład
 
 1. [My Gists](https://github.com/rails4/my_gists5.beta2)
+2. David Heinemeier Hansson.
+   [Rails 5: Action Cable demo](https://www.youtube.com/watch?v=n0WUjGkDFS0)
 
 
 ### Podręczne linki

@@ -19,3 +19,5 @@ curl -X POST localhost:3000/albums -H "Content-Type: application/json" \
 ## More examples
 
 * [JSON API with Rails 5](https://www.youtube.com/watch?v=EpzIhQBXUQk)
+* [How to Build Rails APIs Following the json:api Spec](https://blog.codeship.com/the-json-api-spec/)
+* [The Ruby and Rails community linklog](http://www.rubyflow.com)

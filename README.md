@@ -27,7 +27,8 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 1. [My Gists](https://github.com/rails4/my_gists5.beta2)
 2. David Heinemeier Hansson.
    [Rails 5: Action Cable demo](https://www.youtube.com/watch?v=n0WUjGkDFS0)
-
+3. Rails API:
+   - [api](api.md)
 
 ### Podręczne linki
 
@@ -39,8 +40,6 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 1. Rails 5 awesome features:
   - [Action Cable – Integrated WebSockets for Rails](https://github.com/rails/rails/tree/master/actioncable)
   - [Action Cable Examples](https://github.com/rails/actioncable-examples)
-  - [JSONAPI::Resources](https://github.com/cerebris/jsonapi-resources) –
-    zob. [Peeps](https://github.com/cerebris/peeps) demo app.
 
 Meta aplikacje:
 

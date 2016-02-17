@@ -17,9 +17,7 @@ i Ruby on Rails w wersji co najmniej **5.0.0**.
 > — [Storytelling](http://en.wikipedia.org/wiki/Storytelling)
 
 Link do repozytorium z opisami projektów i linkami do nich należy wpisać
-w pliku [projects.md](projects.md) w jednym wierszu według schematu:
-
-    1. [Nazwisko, Imię](link do repo z rozwiązaniami zadań na GitHub, Bitbucket lub GitLab)
+w pliku [projects.md](projects.md).
 
 Repozytorium z projektami należy przygotować wzorując się na
 tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).

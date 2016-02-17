@@ -27,8 +27,11 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 1. [My Gists](https://github.com/rails4/my_gists5.beta2)
 2. David Heinemeier Hansson.
    [Rails 5: Action Cable demo](https://www.youtube.com/watch?v=n0WUjGkDFS0)
+  - Kyle Szives. [Action Cable and WebSockets: An in-Depth Tutorial](http://www.sitepoint.com/action-cable-and-websockets-an-in-depth-tutorial/);
+    [an example project](https://github.com/kylesziv/action-cable-house-example)
 3. Rails API:
    - [api](api.md)
+
 
 ### Podręczne linki
 

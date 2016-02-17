@@ -47,16 +47,18 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
 1. Rails 5 awesome features:
   - [Action Cable – Integrated WebSockets for Rails](https://github.com/rails/rails/tree/master/actioncable)
 
+News:
 
-Meta aplikacje:
+* [The Ruby and Rails community linklog](http://www.rubyflow.com)
 
-1. [e-commerce done right](http://www.ror-e.com)
 
-Różne rzeczy:
+### Apps
 
-1. Leigh Halliday.
-   [How to Build Rails APIs Following the json:api Spec](http://blog.codeship.com/the-json-api-spec/)
 1. Rob Guilfoyle.
    Building Cross Model Search with Ember, Rails, and Elasticsearch:
   - [Part I](http://blog.codeship.com/cross-model-search-with-ember-rails-and-elasticsearch/)
   - [Part II](http://blog.codeship.com/building-cross-model-search-with-ember-rails-and-elasticsearch-part-2/)
+
+Meta:
+
+1. [e-commerce done right](http://www.ror-e.com)

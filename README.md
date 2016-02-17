@@ -7,6 +7,9 @@ Terminy oddania projektów:
 | zaliczenie | 3 × 1   | 00.04.2016  |
 | egzamin    | 3 × 3   | 00.05.2016  |
 
+Wszystkie projekty powinny korzystać z Ruby w wersji con najmniej 2.3.0
+i Ruby on Rails w wersji co najmniej 5.0.0.
+
 
 ### Zaliczenie i Egzamin
 

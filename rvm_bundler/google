@@ -1,0 +1,14 @@
+#! /usr/bin/env ruby -w
+
+require 'bundler/setup'
+
+require 'nokogiri'
+require 'open-uri'
+
+arg = ARGV[0] || 'news'
+
+doc = Nokogiri::HTML(open("http://www.google.com/search?q=#{arg}"))
+
+doc.css('h3.r a').each do |link|
+  puts link.content
+end

@@ -1,5 +1,14 @@
 # Nasze projekty, 2015/15
 
+Link do repozytorium z opisami projektów i linkami do nich należy wpisać
+w pliku [projects.md](projects.md) w jednym wierszu według schematu:
+
+```
+1. [Nazwisko, Imię](link do repo z rozwiązaniami zadań na GitHub, Bitbucket lub GitLab)
+```
+
+Lista:
+
 1. [Bzyl, Włodzimierz](https://github.com/egzamin/projekty-asi).
 1. Beiger Monika
 1. Breza Mateusz

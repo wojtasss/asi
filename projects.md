@@ -40,7 +40,7 @@ Lista:
 1. Matyjas Sebastian
 1. Mielewczyk Łukasz
 1. Mokrzycki Jarosław
-1. Okoniewski Daniel
+1. [Okoniewski Daniel](https://github.com/okoniewskid/Rails).
 1. Okoń Adrian
 1. Olobry Konrad
 1. Pałkowska Klaudia

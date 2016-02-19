@@ -28,7 +28,7 @@ Lista:
 1. Hallman Marcin
 1. Hnatiuk Ostap
 1. Jaszczak Mariusz
-1. Kamola Filip
+1. [Kamola Filip](https://github.com/fkamola/ASI)
 1. Kasztelan Damian
 1. Kaszubowski Adam
 1. Knop Robert

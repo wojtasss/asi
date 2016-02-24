@@ -42,6 +42,10 @@ tym [repozytorium przykładowym](https://github.com/egzamin/projekty-asi).
    learn web development with Rails
 1. [Edge Rails Guides](http://edgeguides.rubyonrails.org/).
 1. [Edge Rails API](http://edgeapi.rubyonrails.org/)
+1. [Ruby style guide](https://github.com/bbatsov/ruby-style-guide):
+  - [rubocop](https://github.com/bbatsov/rubocop) – a Ruby static code analyzer,
+    based on the community Ruby style guide
+1. [Code Guide by @mdo](http://mdo.github.io/code-guide/) – HTML & CSS
 
 News:
 

@@ -35,22 +35,31 @@ Piątek, 12:15:
 
 1. Beiger Monika
 1. Breza Mateusz
-1. Chlebba Adam
 1. Ciesielski Mateusz
+1. Dąbrowski Łukasz
+1. Gross Bartosz
+1. Kaszubowski Adam
+1. Kozłowski Damian
+1. Stelmach Krzysztof
+1. Wiśniewski Bartosz
+1. Zweigert Mateusz
+1. Żerański Piotr
+1. Żuk Adam
+
+
+Pozostali:
+
+1. Chlebba Adam
 1. Darznik Dawid
 1. Drewing Maciej
 1. Drzewicka Maja
-1. Dąbrowski Łukasz
 1. Formela Bartosz
-1. Gross Bartosz
 1. Górski Michał
 1. Hallman Marcin
 1. Hnatiuk Ostap
 1. Jaszczak Mariusz
 1. [Kamola Filip](https://github.com/fkamola/ASI)
-1. Kaszubowski Adam
 1. Koliński Artur
-1. Kozłowski Damian
 1. Liwiński Kamil
 1. Matuszewski Jan
 1. Mokrzycki Jarosław
@@ -64,16 +73,11 @@ Piątek, 12:15:
 1. Sadowski Patryk
 1. Sadowski Łukasz
 1. Socha Bartłomiej
-1. Stelmach Krzysztof
 1. Szczutkowski Dawid
 1. Szewczyk Krystian
 1. Tyczyński Michał
 1. Tymiński Karol
 1. Uściłowicz Sebastian
 1. Wilamowski Paweł
-1. Wiśniewski Bartosz
 1. Wójcicka Zuzanna
 1. Zawistowski Łukasz
-1. Zweigert Mateusz
-1. Żerański Piotr
-1. Żuk Adam

@@ -13,6 +13,7 @@ Czwartek, 12:15:
 1. Buszman Dariusz
 1. Cendrowski Paweł
 1. Godziuk Jacek
+1. Kasztelan Damian
 1. Knop Robert
 1. Matyjas Sebastian
 1. Mielewczyk Łukasz
@@ -26,6 +27,7 @@ Czwartek, 12:15:
 
 Czwartek, 14:15:
 
+1. Krakowiak Michał
 1. Tkaczyk Michał
 
 
@@ -46,11 +48,9 @@ Piątek, 12:15:
 1. Hnatiuk Ostap
 1. Jaszczak Mariusz
 1. [Kamola Filip](https://github.com/fkamola/ASI)
-1. Kasztelan Damian
 1. Kaszubowski Adam
 1. Koliński Artur
 1. Kozłowski Damian
-1. Krakowiak Michał
 1. Liwiński Kamil
 1. Matuszewski Jan
 1. Mokrzycki Jarosław

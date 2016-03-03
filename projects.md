@@ -17,7 +17,7 @@ Czwartek, 12:15:
 1. Knop Robert
 1. Matyjas Sebastian
 1. Mielewczyk Łukasz
-1. Pałkowska Klaudia
+1. [Pałkowska Klaudia] (https://github.com/kpalkowska/architektura)
 1. Rostek Karolina
 1. Stypa Aneta
 1. Tarnowski Łukasz

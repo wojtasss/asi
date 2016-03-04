@@ -60,7 +60,7 @@ Pozostali:
 1. Jaszczak Mariusz
 1. [Kamola Filip](https://github.com/fkamola/ASI)
 1. Koliński Artur
-1. Liwiński Kamil
+1. [Liwiński Kamil](https://github.com/panUFO/ASI)
 1. Matuszewski Jan
 1. Mokrzycki Jarosław
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Rails).

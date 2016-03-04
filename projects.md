@@ -35,7 +35,7 @@ Piątek, 12:15:
 
 1. Beiger Monika
 1. Breza Mateusz
-1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
+1. Ciesielski Mateusz
 1. Dąbrowski Łukasz
 1. Gross Bartosz
 1. Kaszubowski Adam
@@ -44,15 +44,15 @@ Piątek, 12:15:
 1. Wiśniewski Bartosz
 1. Zweigert Mateusz
 1. Żerański Piotr
-1. [Żuk Adam](https://github.com/adamzuk/asi-project)
+1. Żuk Adam
+1. [Darznik, Dawid] (https://github.com/Dawid93/ASI.git) 
+1. Drzewicka Maja 
 
 
 Pozostali:
 
 1. Chlebba Adam
-1. Darznik Dawid
 1. Drewing Maciej
-1. Drzewicka Maja
 1. Formela Bartosz
 1. Górski Michał
 1. Hallman Marcin

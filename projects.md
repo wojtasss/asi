@@ -35,7 +35,7 @@ Piątek, 12:15:
 
 1. Beiger Monika
 1. Breza Mateusz
-1. Ciesielski Mateusz
+1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
 1. Dąbrowski Łukasz
 1. Gross Bartosz
 1. Kaszubowski Adam

@@ -42,7 +42,7 @@ Piątek, 12:15:
 1. Kozłowski Damian
 1. Stelmach Krzysztof
 1. Wiśniewski Bartosz
-1. [Zweigert Mateusz] (https://github.com/mzweigert/Rails)
+1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
 1. Żerański Piotr
 1. [Żuk Adam](https://github.com/adamzuk/asi-project)
 

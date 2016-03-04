@@ -44,7 +44,7 @@ Piątek, 12:15:
 1. Wiśniewski Bartosz
 1. Zweigert Mateusz
 1. Żerański Piotr
-1. Żuk Adam
+1. [Żuk Adam](https://github.com/adamzuk/asi-project)
 
 
 Pozostali:

@@ -20,7 +20,7 @@ Czwartek, 12:15:
 1. [Pałkowska Klaudia] (https://github.com/kpalkowska/architektura)
 1. Rostek Karolina
 1. [Stypa Aneta](https://github.com/aneta-7/architektura)
-1. Tarnowski Łukasz
+1. [Tarnowski, Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)
 1. Walczak Marta
 1. Zelek Martin
 

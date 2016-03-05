@@ -16,11 +16,11 @@ Czwartek, 12:15:
 1. Kasztelan Damian
 1. Knop Robert
 1. Matyjas Sebastian
-1. Mielewczyk Łukasz
-1. [Pałkowska Klaudia] (https://github.com/kpalkowska/architektura)
+1. [Mielewczyk Łukasz](https://github.com/romety2/asi)
+1. [Pałkowska Klaudia](https://github.com/kpalkowska/architektura)
 1. Rostek Karolina
 1. [Stypa Aneta](https://github.com/aneta-7/architektura)
-1. [Tarnowski, Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)
+1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)
 1. Walczak Marta
 1. Zelek Martin
 
@@ -63,7 +63,7 @@ Pozostali:
 1. [Liwiński Kamil](https://github.com/panUFO/ASI)
 1. Matuszewski Jan
 1. Mokrzycki Jarosław
-1. [Okoniewski Daniel](https://github.com/okoniewskid/Rails).
+1. [Okoniewski Daniel](https://github.com/okoniewskid/Rails)
 1. Okoń Adrian
 1. Olobry Konrad
 1. Popko Adrianna

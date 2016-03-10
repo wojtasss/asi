@@ -29,26 +29,6 @@ Czwartek, 14:15:
 
 1. Krakowiak Michał
 1. Tkaczyk Michał
-
-
-Piątek, 12:15:
-
-1. Beiger Monika
-1. Breza Mateusz
-1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
-1. Dąbrowski Łukasz
-1. Gross Bartosz
-1. Kaszubowski Adam
-1. Kozłowski Damian
-1. Stelmach Krzysztof
-1. Wiśniewski Bartosz
-1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
-1. Żerański Piotr
-1. [Żuk Adam](https://github.com/adamzuk/asi-project)
-
-
-Pozostali:
-
 1. Chlebba Adam
 1. Darznik Dawid
 1. Drewing Maciej
@@ -81,3 +61,19 @@ Pozostali:
 1. Wilamowski Paweł
 1. Wójcicka Zuzanna
 1. Zawistowski Łukasz
+
+Piątek, 12:15:
+
+1. Beiger Monika
+1. Breza Mateusz
+1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
+1. Dąbrowski Łukasz
+1. Gross Bartosz
+1. Kaszubowski Adam
+1. Kozłowski Damian
+1. Stelmach Krzysztof
+1. Wiśniewski Bartosz
+1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
+1. Żerański Piotr
+1. [Żuk Adam](https://github.com/adamzuk/asi-project)
+

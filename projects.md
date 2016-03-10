@@ -71,7 +71,7 @@ Piątek, 12.15:
 1. Gross Bartosz
 1. Kaszubowski Adam
 1. Kozłowski Damian
-1. Stelmach Krzysztof
+1. [Stelmach Krzysztof](https://bitbucket.org/KrzysiekES/asi)
 1. Wiśniewski Bartosz
 1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
 1. Żerański Piotr

@@ -7,7 +7,7 @@ w pliku [projects.md](projects.md) w jednym wierszu według schematu:
 1. [Nazwisko, Imię](link do repo z rozwiązaniami zadań na GitHub, Bitbucket lub GitLab)
 ```
 
-Czwartek, 12:15:
+Czwartek, 12.15:
 
 1. Bruchwalska Aleksandra
 1. Buszman Dariusz
@@ -25,7 +25,7 @@ Czwartek, 12:15:
 1. Zelek Martin
 
 
-Czwartek, 14:15:
+Czwartek, 14.00:
 
 1. Krakowiak Michał
 1. Tkaczyk Michał
@@ -62,7 +62,7 @@ Czwartek, 14:15:
 1. Wójcicka Zuzanna
 1. Zawistowski Łukasz
 
-Piątek, 12:15:
+Piątek, 12.15:
 
 1. Beiger Monika
 1. Breza Mateusz
@@ -76,4 +76,3 @@ Piątek, 12:15:
 1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
 1. Żerański Piotr
 1. [Żuk Adam](https://github.com/adamzuk/asi-project)
-

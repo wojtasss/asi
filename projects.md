@@ -1,4 +1,4 @@
-# Nasze projekty, 2015/15
+# Nasze projekty, 2015/16
 
 Link do repozytorium z opisami projektów i linkami do nich należy wpisać
 w pliku [projects.md](projects.md) w jednym wierszu według schematu:
@@ -51,7 +51,7 @@ Czwartek, 14.00:
 1. Jaszczak Mariusz
 1. [Kamola Filip](https://github.com/fkamola/ASI)
 1. Matuszewski Jan
-1. Okoń Adrian
+1. [Okoń Adrian](https://github.com/adrianokon/asi_lab)
 1. Olobry Konrad
 1. Popko Adrianna
 1. Posłuszny Maciej
@@ -62,7 +62,6 @@ Czwartek, 14.00:
 1. Socha Bartłomiej
 1. Szczutkowski Dawid
 1. Szewczyk Krystian
-1. Tyczyński Michał
 1. Tymiński Karol
 1. Uściłowicz Sebastian
 1. Wilamowski Paweł
@@ -83,6 +82,7 @@ Piątek, 12.15:
 1. Mokrzycki Jarosław
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Architektura_serwisow_internetowych)
 1. [Stelmach Krzysztof](https://bitbucket.org/KrzysiekES/asi)
+1. [Tyczyński Michał](https://github.com/mtyczynski/rails)
 1. Wiśniewski Bartosz 11.03
 1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
 1. Żerański Piotr 11.03

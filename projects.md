@@ -43,7 +43,6 @@ Czwartek, 14.00:
 1. [Liwiński Kamil](https://github.com/panUFO/ASI)
 1. Matuszewski Jan
 1. Mokrzycki Jarosław
-1. [Okoniewski Daniel](https://github.com/okoniewskid/Rails)
 1. Okoń Adrian
 1. Olobry Konrad
 1. Popko Adrianna
@@ -76,3 +75,4 @@ Piątek, 12.15:
 1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
 1. Żerański Piotr
 1. [Żuk Adam](https://github.com/adamzuk/asi-project)
+1. [Okoniewski Daniel](https://github.com/okoniewskid/Architektura_serwisow_internetowych)

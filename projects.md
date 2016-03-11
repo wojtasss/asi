@@ -25,7 +25,7 @@ Czwartek, 12.15:
 1. [Cendrowski Paweł](https://github.com/pcendrowski/asi-projekty)
 1. Godziuk Jacek
 1. Kasztelan Damian
-1. Knop Robert
+1. [Knop Robert](https://github.com/Amenorphus/ProjektASI)
 1. [Matyjas Sebastian](https://github.com/reamider/asi)
 1. [Mielewczyk Łukasz](https://github.com/romety2/asi)
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/architektura)

@@ -16,7 +16,14 @@ Projekt na zaliczenie musi zawierać następujące elementy:
 1. Autoryzacja (logowanie) – [ActionController::HttpAuthentication::Basic](http://edgeapi.rubyonrails.org/classes/ActionController/HttpAuthentication/Basic.html)
    lub z książki [](https://www.railstutorial.org/book) (rozdziały 6-10)
    lub OAuth2 + GitHub.
+1. Czasami konkretny gem nie działa z ostatnią wersją Rails. Można wtedy, np. zainstalować
+  wersję z gałęzi master z repozytorium. Na przykład, należy tak zainstalować
+  gem Devise wpisując go w pliku _Gemfile_ w taki sposób
+  ([zob. też](http://bundler.io/git.html)):
 
+```ruby
+gem 'devise', :github => 'plataformatec/devise'
+```
 
 Czwartek, 12.15:
 

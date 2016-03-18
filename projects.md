@@ -34,6 +34,7 @@ Czwartek, 12.15:
 1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)
 1. Walczak Marta
 1. [Zelek Martin](https://github.com/martin123154/Architektura-serwis-w-internetowych)
+1. Marcinkiewicz Oskar
 
 
 Czwartek, 14.00:

@@ -83,7 +83,7 @@ Piątek, 12.15:
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Architektura_serwisow_internetowych)
 1. [Stelmach Krzysztof](https://bitbucket.org/KrzysiekES/asi)
 1. [Tyczyński Michał](https://github.com/mtyczynski/rails)
-1. Wiśniewski Bartosz 11.03
+1. [Wiśniewski Bartosz](https://github.com/vvisnia/asi)
 1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)
 1. Żerański Piotr 11.03
 1. [Żuk Adam](https://github.com/adamzuk/asi-project)

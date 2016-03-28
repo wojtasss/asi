@@ -51,7 +51,7 @@ Czwartek, 14.00:
 1. Chlebba Adam
 1. Darznik Dawid
 1. Drewing Maciej
-1. Drzewicka Maja
+1. [Drzewicka Maja](https://github.com/MajaD/Ruby_proj1.git)
 1. Formela Bartosz
 1. Górski Michał
 1. Hallman Marcin

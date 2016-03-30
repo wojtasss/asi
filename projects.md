@@ -64,7 +64,7 @@ Czwartek, 14.00:
 1. Popko Adrianna
 1. Posłuszny Maciej
 1. Rzepecki Wojciech
-1. Rzeppa Sławomir
+1. [Rzeppa Sławomir](https://github.com/srzeppa/asi)
 1. Sadowski Patryk
 1. Sadowski Łukasz
 1. Socha Bartłomiej

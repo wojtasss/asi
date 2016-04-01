@@ -85,7 +85,7 @@ Piątek, 12.15:
 1. Gross Bartosz 11.03
 1. Kaszubowski Adam 11.03
 1. Kozłowski Damian 11.03
-1. Koliński Artur
+1. [Koliński Artur](https://github.com/artkolinski/rails)
 1. [Liwiński Kamil](https://github.com/panUFO/ASI)
 1. [Mokrzycki Jarosław](https://github.com/jmokrzycki/asi-projekt)
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Architektura_serwisow_internetowych)

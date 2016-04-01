@@ -87,7 +87,7 @@ Piątek, 12.15:
 1. Kozłowski Damian 11.03
 1. Koliński Artur
 1. [Liwiński Kamil](https://github.com/panUFO/ASI)
-1. Mokrzycki Jarosław
+1. [Mokrzycki Jarosław](https://github.com/jmokrzycki/asi-projekt)
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Architektura_serwisow_internetowych)
 1. [Stelmach Krzysztof](https://bitbucket.org/KrzysiekES/asi)
 1. [Tyczyński Michał](https://github.com/mtyczynski/rails)

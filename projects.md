@@ -35,7 +35,7 @@ Czwartek, 12.15:
 1. [Knop Robert](https://github.com/Amenorphus/ProjektASI)
 1. [Matyjas Sebastian](https://github.com/reamider/asi)
 1. [Mielewczyk Łukasz](https://github.com/romety2/asi)
-1. [Pałkowska Klaudia](https://github.com/kpalkowska/architektura)
+1. [Pałkowska Klaudia](https://github.com/kpalkowska/rails)
 1. Rostek Karolina
 1. [Stypa Aneta](https://github.com/aneta-7/architektura)
 1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)

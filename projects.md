@@ -83,7 +83,7 @@ Piątek, 12.15:
 1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
 1. Dąbrowski Łukasz 11.03
 1. Gross Bartosz 11.03
-1. Kaszubowski Adam 11.03
+1. [Kaszubowski Adam](https://github.com/chomyczek/zaliczenie-asi)
 1. Kozłowski Damian 11.03
 1. [Koliński Artur](https://github.com/artkolinski/rails)
 1. [Liwiński Kamil](https://github.com/panUFO/ASI)

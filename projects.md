@@ -70,7 +70,7 @@ Czwartek, 14.00:
 1. Socha Bartłomiej
 1. Szczutkowski Dawid
 1. Szewczyk Krystian
-1. Tymiński Karol
+1. [Tymiński Karol](https://github.com/ktyminski/asi-projekty)
 1. Uściłowicz Sebastian
 1. Wilamowski Paweł
 1. Wójcicka Zuzanna

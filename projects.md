@@ -74,7 +74,7 @@ Czwartek, 14.00:
 1. Uściłowicz Sebastian
 1. Wilamowski Paweł
 1. Wójcicka Zuzanna
-1. Zawistowski Łukasz
+1. [Zawistowski Łukasz](https://github.com/lzawistowski/RailsProjekt1)
 
 Piątek, 12.15:
 

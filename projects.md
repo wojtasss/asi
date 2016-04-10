@@ -82,7 +82,7 @@ Piątek, 12.15:
 1. Breza Mateusz 11.03
 1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
 1. Dąbrowski Łukasz 11.03
-1. Gross Bartosz 11.03
+1. [Gross Bartosz](https://github.com/grossB/asi)
 1. [Kaszubowski Adam](https://github.com/chomyczek/zaliczenie-asi)
 1. Kozłowski Damian 11.03
 1. [Koliński Artur](https://github.com/artkolinski/rails)

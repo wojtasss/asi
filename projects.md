@@ -30,7 +30,7 @@ Czwartek, 12.15:
 1. Bruchwalska Aleksandra
 1. Buszman Dariusz
 1. [Cendrowski Paweł](https://github.com/pcendrowski/asi-projekty)
-1. Godziuk Jacek
+1. [Godziuk Jacek](https://github.com/jgodziuk/ASI)
 1. Kasztelan Damian
 1. [Knop Robert](https://github.com/Amenorphus/ProjektASI)
 1. [Matyjas Sebastian](https://github.com/reamider/asi)

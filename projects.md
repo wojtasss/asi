@@ -27,7 +27,7 @@ gem 'devise', :github => 'plataformatec/devise'
 
 Czwartek, 12.15:
 
-1. Bruchwalska Aleksandra
+1. [Bruchwalska Aleksandra](https://github.com/ABruchwalska/ror)
 1. Buszman Dariusz
 1. [Cendrowski Paweł](https://github.com/pcendrowski/asi-projekty)
 1. [Godziuk Jacek](https://github.com/jgodziuk/ASI)

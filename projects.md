@@ -68,7 +68,7 @@ Czwartek, 14.00:
 1. Sadowski Patryk
 1. Sadowski Łukasz
 1. Socha Bartłomiej
-1. Szczutkowski Dawid
+1. [Szczutkowski Dawid](https://github.com/dszczutkowski/ASI2016)
 1. Szewczyk Krystian
 1. [Tymiński Karol](https://github.com/ktyminski/asi-projekty)
 1. Uściłowicz Sebastian

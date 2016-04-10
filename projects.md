@@ -48,7 +48,7 @@ Czwartek, 14.00:
 
 1. Krakowiak Michał
 1. [Tkaczyk Michał](https://github.com/Emkate/projektASI)
-1. Chlebba Adam
+1. [Chlebba Adam](https://github.com/AChlebba/ASI)
 1. [Darznik Dawid](https://github.com/Dawid93/ASI2016.git)
 1. Drewing Maciej
 1. [Drzewicka Maja](https://github.com/MajaD/Ruby_proj1.git)

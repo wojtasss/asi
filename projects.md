@@ -54,7 +54,7 @@ Czwartek, 14.00:
 1. [Drzewicka Maja](https://github.com/MajaD/Ruby_proj1.git)
 1. Formela Bartosz
 1. [Górski Michał](https://github.com/DajMiNazwe/asi)
-1. Hallman Marcin
+1. [Hallman Marcin](https://github.com/Strugacki/ASI2016)
 1. Hnatiuk Ostap
 1. Jaszczak Mariusz
 1. [Kamola Filip](https://github.com/fkamola/ASI)

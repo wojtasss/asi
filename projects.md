@@ -62,7 +62,7 @@ Czwartek, 14.00:
 1. [Okoń Adrian](https://github.com/adrianokon/asi_lab)
 1. Olobry Konrad
 1. Popko Adrianna
-1. Posłuszny Maciej
+1. [Posłuszny Maciej](https://github.com/spalonytoster/rails-superheroes)
 1. Rzepecki Wojciech
 1. [Rzeppa Sławomir](https://github.com/srzeppa/asi)
 1. Sadowski Patryk

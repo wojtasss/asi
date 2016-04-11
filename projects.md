@@ -71,7 +71,7 @@ Czwartek, 14.00:
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/ASI2016)
 1. Szewczyk Krystian
 1. [Tymiński Karol](https://github.com/ktyminski/asi-projekty)
-1. Uściłowicz Sebastian
+1. [Uściłowicz Sebastian](https://github.com/suscilowicz/ASI_LAB)
 1. Wilamowski Paweł
 1. Wójcicka Zuzanna
 1. [Zawistowski Łukasz](https://github.com/lzawistowski/RailsProjekt1)

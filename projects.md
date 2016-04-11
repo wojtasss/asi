@@ -65,7 +65,7 @@ Czwartek, 14.00:
 1. [Posłuszny Maciej](https://github.com/spalonytoster/rails-superheroes)
 1. Rzepecki Wojciech
 1. [Rzeppa Sławomir](https://github.com/srzeppa/asi)
-1. Sadowski Patryk
+1. [Sadowski Patryk](https://github.com/psadowski/Rails)
 1. Sadowski Łukasz
 1. Socha Bartłomiej
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/ASI2016)

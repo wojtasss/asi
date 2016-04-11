@@ -96,4 +96,4 @@ Odddane po terminie:
 1. Socha Bartłomiej
 1. Wilamowski Paweł
 1. Wójcicka Zuzanna
-1. Żerański Piotr 11.03
+1. [Żerański Piotr] (https://github.com/pzeranski/asi)

@@ -84,7 +84,7 @@ Piątek, 12.15:
 1. Dąbrowski Łukasz 11.03
 1. [Gross Bartosz](https://github.com/grossB/asi)
 1. [Kaszubowski Adam](https://github.com/chomyczek/zaliczenie-asi)
-1. Kozłowski Damian 11.03
+1. [Kozłowski Damian](https://github.com/dkozlowski22/ASI-projekt) 
 1. [Koliński Artur](https://github.com/artkolinski/rails)
 1. [Liwiński Kamil](https://github.com/panUFO/ASI)
 1. [Mokrzycki Jarosław](https://github.com/jmokrzycki/asi-projekt)

@@ -79,7 +79,7 @@ Czwartek, 14.00:
 Piątek, 12.15:
 
 1. [Beiger Monika] (https://github.com/mbeiger/ASI)
-1. Breza Mateusz 11.03
+1. [Breza Mateusz] (https://github.com/mbreza/ruby1)
 1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
 1. Dąbrowski Łukasz 11.03
 1. [Gross Bartosz](https://github.com/grossB/asi)

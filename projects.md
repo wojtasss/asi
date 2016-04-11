@@ -39,7 +39,7 @@ Czwartek, 12.15:
 1. Rostek Karolina
 1. [Stypa Aneta](https://github.com/aneta-7/architektura)
 1. [Tarnowski Łukasz](https://github.com/ltarnowski1/Architektura-serwisow-internetowych)
-1. Walczak Marta
+1. [Walczak Marta](https://github.com/mawala/Asi)
 1. [Zelek Martin](https://github.com/martin123154/Architektura-serwis-w-internetowych)
 1. Marcinkiewicz Oskar
 

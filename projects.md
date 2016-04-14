@@ -87,7 +87,7 @@ Odddane po terminie:
 1. Formela Bartosz
 1. Hnatiuk Ostap
 1. Jaszczak Mariusz
-1. Krakowiak Michał
+1. [Krakowiak Michał](https://github.com/mkrakowiak/rails2)
 1. Marcinkiewicz Oskar
 1. Matuszewski Jan
 1. Olobry Konrad

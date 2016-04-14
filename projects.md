@@ -83,7 +83,7 @@ Piątek, 12.15:
 Odddane po terminie:
 
 1. [Dąbrowski Łukasz](https://github.com/ldabrowski/ASI)
-1. Drewing Maciej
+1. [Drewing Maciej] (https://github.com/Niedwiediew/ASI)
 1. Formela Bartosz
 1. Hnatiuk Ostap
 1. Jaszczak Mariusz

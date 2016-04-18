@@ -86,7 +86,7 @@ Odddane po terminie:
 1. [Drewing Maciej] (https://github.com/Niedwiediew/ASI)
 1. Formela Bartosz
 1. Hnatiuk Ostap
-1. Jaszczak Mariusz
+1. [Jaszczak Mariusz](https://github.com/mjaszczak/asi2016)
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rails2)
 1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/ASI)
 1. Matuszewski Jan

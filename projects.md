@@ -84,11 +84,15 @@ Odddane po terminie:
 
 1. [Dąbrowski Łukasz](https://github.com/ldabrowski/ASI)
 1. [Drewing Maciej] (https://github.com/Niedwiediew/ASI)
-1. Formela Bartosz
-1. Hnatiuk Ostap
 1. [Jaszczak Mariusz](https://github.com/mjaszczak/asi2016)
 1. [Krakowiak Michał](https://github.com/mkrakowiak/rails2)
-1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/ASI)
+1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/ASI) 
+1. [Żerański Piotr] (https://github.com/pzeranski/asi)
+
+NOZO:
+
+1. Formela Bartosz
+1. Hnatiuk Ostap
 1. Matuszewski Jan
 1. Olobry Konrad
 1. Popko Adrianna
@@ -96,4 +100,3 @@ Odddane po terminie:
 1. Socha Bartłomiej
 1. Wilamowski Paweł
 1. Wójcicka Zuzanna
-1. [Żerański Piotr] (https://github.com/pzeranski/asi)

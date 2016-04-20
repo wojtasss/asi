@@ -46,35 +46,35 @@ Czwartek, 14.00:
 
 1. [Tkaczyk Michał](https://github.com/Emkate/projektASI)
 1. [Chlebba Adam](https://github.com/AChlebba/ASI)
-1. [Darznik Dawid](https://github.com/Dawid93/ASI2016.git)
-1. [Drzewicka Maja](https://github.com/MajaD/Ruby_proj1.git)
+1. [Darznik Dawid](https://github.com/Dawid93/ASI2016.git) RoR 4.2.5, :+1:
+1. [Drzewicka Maja](https://github.com/MajaD/Ruby_proj1.git) Książki :+1:
 1. [Górski Michał](https://github.com/DajMiNazwe/asi)
 1. [Hallman Marcin](https://github.com/Strugacki/ASI2016)
-1. [Kamola Filip](https://github.com/fkamola/ASI)
+1. [Kamola Filip](https://github.com/fkamola/ASI) C9
 1. [Okoń Adrian](https://github.com/adrianokon/asi_lab)
-1. [Posłuszny Maciej](https://github.com/spalonytoster/rails-superheroes)
-1. [Rzepecki Wojciech](https://github.com/wojtasss/tsi-checkout-project-rails)
+1. [Posłuszny Maciej](https://github.com/spalonytoster/rails-superheroes) \*.\*.158.91:3002
+1. [Rzepecki Wojciech](https://github.com/wojtasss/tsi-checkout-project-rails) C9
 1. [Rzeppa Sławomir](https://github.com/srzeppa/asi)
-1. [Sadowski Patryk](https://github.com/psadowski/Rails)
-1. [Szczutkowski Dawid](https://github.com/dszczutkowski/ASI2016)
-1. [Szewczyk Krystian](https://github.com/kszewczyk1/ASI2016)
-1. [Tymiński Karol](https://github.com/ktyminski/asi-projekty)
-1. [Uściłowicz Sebastian](https://github.com/suscilowicz/ASI_LAB)
-1. [Zawistowski Łukasz](https://github.com/lzawistowski/RailsProjekt1)
+1. [Sadowski Patryk](https://github.com/psadowski/Rails) RoR 4.2.9, C9
+1. [Szczutkowski Dawid](https://github.com/dszczutkowski/ASI2016) C9
+1. [Szewczyk Krystian](https://github.com/kszewczyk1/ASI2016) C9
+1. [Tymiński Karol](https://github.com/ktyminski/asi-projekty) C9
+1. [Uściłowicz Sebastian](https://github.com/suscilowicz/ASI_LAB) C9
+1. [Zawistowski Łukasz](https://github.com/lzawistowski/RailsProjekt1) C9
 
 Piątek, 12.15:
 
 1. [Beiger Monika](https://github.com/mbeiger/ASI)
 1. [Breza Mateusz](https://github.com/mbreza/ruby1)
 1. [Ciesielski Mateusz](https://github.com/m-ciesielski/rails)
-1. [Gross Bartosz](https://github.com/grossB/asi)
+1. [Gross Bartosz](https://github.com/grossB/asi) RoR 4.2.6
 1. [Kaszubowski Adam](https://github.com/chomyczek/zaliczenie-asi)
-1. [Kozłowski Damian](https://github.com/dkozlowski22/ASI-projekt)
+1. [Kozłowski Damian](https://github.com/dkozlowski22/ASI-projekt) C9
 1. [Koliński Artur](https://github.com/artkolinski/rails)
-1. [Liwiński Kamil](https://github.com/panUFO/ASI)
+1. [Liwiński Kamil](https://github.com/panUFO/ASI) C9
 1. [Mokrzycki Jarosław](https://github.com/jmokrzycki/asi-projekt)
 1. [Okoniewski Daniel](https://github.com/okoniewskid/Architektura_serwisow_internetowych)
-1. [Stelmach Krzysztof](https://bitbucket.org/KrzysiekES/asi)
+1. [Stelmach Krzysztof](https://bitbucket.org/KrzysiekES/asi) RoR 4.2.5.1, C9
 1. [Tyczyński Michał](https://github.com/mtyczynski/rails)
 1. [Wiśniewski Bartosz](https://github.com/vvisnia/asi)
 1. [Zweigert Mateusz](https://github.com/mzweigert/Rails)

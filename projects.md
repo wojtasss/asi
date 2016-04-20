@@ -83,11 +83,11 @@ Piątek, 12.15:
 Odddane po terminie:
 
 1. [Dąbrowski Łukasz](https://github.com/ldabrowski/ASI)
-1. [Drewing Maciej] (https://github.com/Niedwiediew/ASI)
+1. [Drewing Maciej] (https://github.com/Niedwiediew/ASI) \*.\*.edu.pl:5082
 1. [Jaszczak Mariusz](https://github.com/mjaszczak/asi2016)
-1. [Krakowiak Michał](https://github.com/mkrakowiak/rails2)
-1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/ASI) 
-1. [Żerański Piotr] (https://github.com/pzeranski/asi)
+1. [Krakowiak Michał](https://github.com/mkrakowiak/rails2) C9
+1. [Marcinkiewicz Oskar](https://github.com/BoskiOski/ASI) C9
+1. [Żerański Piotr] (https://github.com/pzeranski/asi) C9
 
 NOZO:
 

@@ -30,10 +30,10 @@ Czwartek, 12.15:
 1. [Bruchwalska Aleksandra](https://github.com/ABruchwalska/ror)
 1. [Buszman Dariusz](https://github.com/dbuszman/flatmate_helper)
 1. [Cendrowski Paweł](https://github.com/pcendrowski/asi-projekty)
-1. [Godziuk Jacek](https://github.com/jgodziuk/ASI)
-1. [Kasztelan Damian](https://github.com/damian11/ASI-1)
-1. [Knop Robert](https://github.com/Amenorphus/ProjektASI)
-1. [Matyjas Sebastian](https://github.com/reamider/asi)
+1. [Godziuk Jacek](https://github.com/jgodziuk/ASI) C9
+1. [Kasztelan Damian](https://github.com/damian11/ASI-1) c9
+1. [Knop Robert](https://github.com/Amenorphus/ProjektASI) RoR 4.2.5
+1. [Matyjas Sebastian](https://github.com/reamider/asi) RoR 4.2.6, C9
 1. [Mielewczyk Łukasz](https://github.com/romety2/asi)
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/rails)
 1. [Rostek Karolina](https://github.com/Carolsien/ArchitekturaSerwisowInternetowych)

@@ -93,7 +93,7 @@ NOZO:
 
 1. Formela Bartosz
 1. Hnatiuk Ostap
-1. Matuszewski Jan
+1. [Matuszewski Jan](https://github.com/JMatuszewski/projekty-asi)
 1. Olobry Konrad
 1. Popko Adrianna
 1. Sadowski Łukasz

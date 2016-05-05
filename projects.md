@@ -25,6 +25,18 @@ Projekt na zaliczenie musi zawierać następujące elementy:
 gem 'devise', :github => 'plataformatec/devise'
 ```
 
+## Projekty na egzamin
+
+Wpisujemy według schematu:
+
+```
+1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
+```
+
+
+
+## Projekty na zaliczenie
+
 Czwartek, 12.15:
 
 1. [Bruchwalska Aleksandra](https://github.com/ABruchwalska/ror)

@@ -35,6 +35,7 @@ Wpisujemy według schematu:
 
 *Uwaga:* W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
 
+1. [ADHD](https://github.com/romety2/asi_egz).  [Wypok](http://spalonytoster.me/)
 
 ## Projekty na zaliczenie
 
@@ -47,7 +48,7 @@ Czwartek, 12.15:
 1. [Kasztelan Damian](https://github.com/damian11/ASI-1) c9
 1. [Knop Robert](https://github.com/Amenorphus/ProjektASI) RoR 4.2.5
 1. [Matyjas Sebastian](https://github.com/reamider/asi) RoR 4.2.6, C9
-1. [Mielewczyk Łukasz](https://github.com/romety2/asi)
+1. [Mielewczyk Łukasz](https://github.com/romety2/asi_zal)
 1. [Pałkowska Klaudia](https://github.com/kpalkowska/rails)
 1. [Rostek Karolina](https://github.com/Carolsien/ArchitekturaSerwisowInternetowych)
 1. [Stypa Aneta](https://github.com/aneta-7/architektura)

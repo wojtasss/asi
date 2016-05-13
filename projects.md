@@ -25,6 +25,11 @@ Projekt na zaliczenie musi zawierać następujące elementy:
 gem 'devise', :github => 'plataformatec/devise'
 ```
 
+## Wykłady
+
+Piątek, g. 14:00, aula 2.
+
+
 ## Projekty na egzamin
 
 Wpisujemy według schematu:

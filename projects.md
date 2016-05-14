@@ -63,7 +63,7 @@ Czwartek, 12.15:
 
 Czwartek, 14.00:
 
-1. [Tkaczyk Michał](https://github.com/Emkate/projektASI)
+1. [Tkaczyk Michał](https://github.com/Emkate/projektASI) przeniesiony na Heroku
 1. [Chlebba Adam](https://github.com/AChlebba/ASI)
 1. [Darznik Dawid](https://github.com/Dawid93/ASI2016.git) RoR 4.2.5, :+1:
 1. [Drzewicka Maja](https://github.com/MajaD/Ruby_proj1.git) Książki :+1:

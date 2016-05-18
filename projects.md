@@ -114,7 +114,7 @@ NOZO:
 1. Formela Bartosz
 1. Hnatiuk Ostap
 1. [Matuszewski Jan](https://github.com/JMatuszewski/projekty-asi)
-1. Olobry Konrad
+1. [Olobry Konrad] (https://github.com/Kombi92/Songapp-ruby-)
 1. Popko Adrianna
 1. Sadowski Łukasz
 1. Socha Bartłomiej

@@ -61,6 +61,10 @@ News:
 
 Meta:
 
+1. [Trailblazer](http://trailblazer.to) –
+  a High-level Architecture For The Web
+  - [Introduction to Cells: A Better View Layer for Rails](https://www.sitepoint.com/introduction-to-cells-a-better-view-layer-for-rails/)
+  - [Cells: A Deeper Look into Dependency Injection and Testing](https://www.sitepoint.com/cells-a-deeper-look-into-dependency-injection-and-testing/)
 1. [e-commerce done right](http://www.ror-e.com)
 1. [TuneMyGC](https://tunemygc.com) – optimal MRI Ruby 2.1+ Garbage Collection
 
@@ -68,3 +72,8 @@ Gems:
 
 1. [Rails File Uploading You Can Believe in with Shrine](http://www.sitepoint.com/rails-file-uploading-you-can-believe-in-with-shrine/)
 1. [Generate Excel Spreadsheets with Rails and the Axlsx Gem](http://www.sitepoint.com/generate-excel-spreadsheets-rails-axlsx-gem/)
+1. [Easily Provide Excel Reports with Rails and jXLS](https://www.sitepoint.com/easily-provide-excel-reports-with-rails-and-jxls/)
+
+Różne:
+
+1. [An in-Depth Look at Basic Rails Routing](https://www.sitepoint.com/an-in-depth-look-at-basic-rails-routing/)

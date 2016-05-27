@@ -42,7 +42,7 @@ Wpisujemy według schematu:
 
 1. [ADHD](https://github.com/romety2/asi_egz).  [Wypok](http://spalonytoster.me/)
 1. [Kudłaci](https://github.com/mkrakowiak/Rails_nowy_egzamin2). [Blog](blogkudlatych.herokuapp.com)
-1. [MKR](https://github.com/rubyugprojekt/asi_egzamin). [Ranking seriali](https://projekt-ruby.herokuapp.com/)
+1. [MKR](https://github.com/rubyugprojekt/asi_egzamin). [Ranking seriali](https://projekt-ruby.herokuapp.com/) – znikające obrazki
 
 
 ## Projekty na zaliczenie

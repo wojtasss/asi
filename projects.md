@@ -58,8 +58,6 @@ Wpisujemy według schematu:
 1. [AKBG](https://github.com/chomyczek/egzaim-asi). [NaszBlog](https://egzamin-asi-chomyczek.c9users.io)
 1. [WiseCru](https://github.com/pcendrowski/asi-projekt-egzamin). [Wykładowcy](https://wykladowcyzespolowy.herokuapp.com/)
 1. [2muchwork](https://github.com/vvisnia/asi_projekt_egzamin). [Wypożyczalnia samochodów](http://carrtental.herokuapp.com/) – niedokończona
-1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI). brakujący link do wdrożonej aplikacji 
-
 
 
 ## Projekty na zaliczenie
@@ -139,4 +137,8 @@ NOZO:
 1. Sadowski Łukasz
 1. Socha Bartłomiej
 1. Wilamowski Paweł
-1. Wójcicka Zuzanna
+
+<!--
+1. Wójcicka Zuzanna – niezaliczone laboratorium
+1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI). brakujący link do wdrożonej aplikacji 
+-->

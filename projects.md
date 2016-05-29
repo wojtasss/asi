@@ -49,6 +49,8 @@ Wpisujemy według schematu:
 1. [SMMA](https://github.com/Strugacki/LecturerRatingAppRoR). [LecturerRating]() – brakujący link do wdrożonej aplikacji
 1. [DAMKA](https://github.com/kpalkowska/Flatmate-helper). [Flatmate-helper](https://flatmate-helper-app.herokuapp.com) – nie działały mapki
 1. [TeamEdward](https://github.com/okoniewskid/Rails). [Kreator Postaci](https://kreator-postaci.herokuapp.com/)
+1. [AMM](https://github.com/adamzuk/rehearsal-room). [Sala prób muzycznych](http://rehearsal-room-prod.herokuapp.com/)
+
 
 
 

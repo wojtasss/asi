@@ -53,6 +53,11 @@ Wpisujemy według schematu:
 1. [AKBG](https://github.com/chomyczek/egzaim-asi). [NaszBlog](https://egzamin-asi-chomyczek.c9users.io)
 
 
+1. [WiseCru](https://github.com/pcendrowski/asi-projekt-egzamin). [Wykładowcy](https://wykladowcyzespolowy.herokuapp.com/)
+1. [2muchwork](https://github.com/vvisnia/asi_projekt_egzamin). [Wypozyczalnia](http://carrtental.herokuapp.com/)
+1. [Wójcicka Zuzanna](https://github.com/zwojcicka/ASI).
+
+
 
 ## Projekty na zaliczenie
 

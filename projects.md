@@ -38,7 +38,12 @@ Wpisujemy według schematu:
 1. [nazwa zespołu](link do repo z kodem applikacji). [nazwa aplikacji](link do wdrożonej aplikacji)
 ```
 
-*Uwaga:* W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
+**Uwaga:** 
+
+* W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
+* Zespoły, których aplikacje nie działały proszę o utworzenie issue po wdrożeniu aplikacji.
+
+----
 
 1. [ADHD](https://github.com/romety2/asi_egz).  [Wypok](http://spalonytoster.me/)
 1. [Kudłaci](https://github.com/mkrakowiak/Rails_nowy_egzamin2). [Blog](blogkudlatych.herokuapp.com)

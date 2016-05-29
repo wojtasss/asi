@@ -45,7 +45,9 @@ Wpisujemy według schematu:
 1. [MKR](https://github.com/rubyugprojekt/asi_egzamin). [Ranking seriali](https://projekt-ruby.herokuapp.com/) – znikające obrazki
 1. [DK](https://github.com/dkozlowski22/Projekt_egzamin_ASI).  [Katalog albumów muzycznych](https://stormy-thicket-30324.herokuapp.com/)
 1. [Mr Cook](https://github.com/damian11/egzaminASI). [AplikacjaKucharska](https://serene-retreat-91830.herokuapp.com/) – znikające obrazki
-
+1. [YBT](https://github.com/MajaD/MovieReview.git). [MovieReview]() – brakujący link do wdrożonej aplikacji 
+1. [SMMA](https://github.com/Strugacki/LecturerRatingAppRoR). [LecturerRating]() – brakujący link do wdrożonej aplikacji
+1. [DAMKA](https://github.com/kpalkowska/Flatmate-helper). [Flatmate-helper](https://flatmate-helper-app.herokuapp.com)
 
 
 ## Projekty na zaliczenie

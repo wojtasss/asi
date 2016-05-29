@@ -48,7 +48,7 @@ Wpisujemy według schematu:
 1. [YBT](https://github.com/MajaD/MovieReview.git). [MovieReview]() – brakujący link do wdrożonej aplikacji 
 1. [SMMA](https://github.com/Strugacki/LecturerRatingAppRoR). [LecturerRating]() – brakujący link do wdrożonej aplikacji
 1. [DAMKA](https://github.com/kpalkowska/Flatmate-helper). [Flatmate-helper](https://flatmate-helper-app.herokuapp.com) – nie działały mapki
-
+1. [TeamEdward](https://github.com/okoniewskid/Rails). [Kreator Postaci](https://kreator-postaci.herokuapp.com/)
 
 
 

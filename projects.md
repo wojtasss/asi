@@ -41,7 +41,7 @@ Wpisujemy według schematu:
 **Uwaga:** 
 
 * W pliku _README.md_ należy wpisać wszystkich autorów aplikacji.
-* Zespoły, których aplikacje nie działały proszę o utworzenie issue po wdrożeniu aplikacji.
+* Zespoły, których aplikacje nie działały/brakowało linka po wdrożeniu aplikacji proszę o utworzenie nowego issue.
 
 ----
 

@@ -44,6 +44,7 @@ Wpisujemy według schematu:
 1. [Kudłaci](https://github.com/mkrakowiak/Rails_nowy_egzamin2). [Blog](blogkudlatych.herokuapp.com)
 1. [MKR](https://github.com/rubyugprojekt/asi_egzamin). [Ranking seriali](https://projekt-ruby.herokuapp.com/) – znikające obrazki
 1. [DK](https://github.com/dkozlowski22/Projekt_egzamin_ASI).  [Katalog albumów muzycznych](https://stormy-thicket-30324.herokuapp.com/)
+1. [AplikacjaKucharska](https://github.com/damian11/egzaminASI)[AplikacjaKucharska](https://serene-retreat-91830.herokuapp.com/)
 
 
 ## Projekty na zaliczenie

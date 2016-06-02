@@ -91,7 +91,7 @@ Czwartek, 14.00:
 1. [Kamola Filip](https://github.com/fkamola/ASI) C9
 1. [Okoń Adrian](https://github.com/adrianokon/asi_lab)
 1. [Posłuszny Maciej](https://github.com/spalonytoster/rails-superheroes) \*.\*.158.91:3002
-1. [Rzepecki Wojciech](https://github.com/wojtasss/tsi-checkout-project-rails) C9
+1. [Rzepecki Wojciech](https://github.com/wojtasss/checklist-rails-5) C9
 1. [Rzeppa Sławomir](https://github.com/srzeppa/asi)
 1. [Sadowski Patryk](https://github.com/psadowski/Rails) RoR 4.2.9, C9
 1. [Szczutkowski Dawid](https://github.com/dszczutkowski/ASI2016) C9
